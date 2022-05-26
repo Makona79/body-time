@@ -244,7 +244,7 @@ body._lock {
 .btn_footer {
   text-transform: uppercase;
   width: 104px;
-  height: 48px;
+  height: 56px;
   color: #fff;
   font-size: 16px;
   background-color: #74b900;
@@ -2325,6 +2325,7 @@ body.ie ._ibg img {
 
   .btn_footer {
     width: 76px;
+    height: 48px;
   }
 
   .input {
